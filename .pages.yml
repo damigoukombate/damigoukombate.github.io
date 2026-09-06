@@ -1,0 +1,91 @@
+media:
+  input: assets
+  output: assets
+
+content:
+  - name: settings
+    label: Profil & coordonnées
+    type: file
+    path: content/settings.json
+    format: json
+    fields:
+      - { name: name, label: Nom complet, type: string }
+      - { name: brand_subtitle, label: Sous-titre du logo, type: string }
+      - { name: location, label: Localisation, type: string }
+      - { name: email, label: E-mail, type: string }
+      - { name: phone1, label: Téléphone 1, type: string }
+      - { name: phone2, label: Téléphone 2, type: string }
+      - { name: linkedin, label: LinkedIn, type: string }
+      - { name: portrait, label: Photo, type: image }
+      - { name: hero_eyebrow, label: Accroche courte, type: string }
+      - { name: hero_tagline, label: Titre professionnel, type: string }
+      - { name: hero_text, label: Présentation accueil, type: text }
+      - { name: about_lead, label: Introduction À propos, type: text }
+      - { name: about_p1, label: À propos - paragraphe 1, type: text }
+      - { name: about_p2, label: À propos - paragraphe 2, type: text }
+      - { name: about_p3, label: À propos - paragraphe 3, type: text }
+      - { name: contact_intro, label: Introduction Contact, type: text }
+
+  - name: experiences
+    label: Expériences
+    type: file
+    path: content/experiences.json
+    format: json
+    list: true
+    fields:
+      - { name: title, label: Poste / expérience, type: string }
+      - { name: date, label: Période, type: string }
+      - { name: organization, label: Organisation, type: string }
+      - { name: description, label: Description, type: text }
+      - name: skills
+        label: Compétences
+        type: string
+        list: true
+      - { name: order, label: Ordre, type: number }
+
+  - name: formations
+    label: Formations
+    type: file
+    path: content/formations.json
+    format: json
+    list: true
+    fields:
+      - { name: title, label: Formation, type: string }
+      - { name: meta, label: Année et organisme, type: string }
+      - { name: details, label: Détails / compétences, type: text }
+      - { name: order, label: Ordre, type: number }
+
+  - name: expertises
+    label: Expertises
+    type: file
+    path: content/expertises.json
+    format: json
+    list: true
+    fields:
+      - { name: title, label: Expertise, type: string }
+      - { name: icon, label: Abréviation, type: string }
+      - { name: description, label: Description, type: text }
+      - { name: order, label: Ordre, type: number }
+
+  - name: engagements
+    label: Engagements
+    type: file
+    path: content/engagements.json
+    format: json
+    list: true
+    fields:
+      - { name: title, label: Engagement, type: string }
+      - { name: date, label: Date, type: string }
+      - { name: description, label: Description, type: text }
+      - { name: order, label: Ordre, type: number }
+
+  - name: distinctions
+    label: Distinctions
+    type: file
+    path: content/distinctions.json
+    format: json
+    list: true
+    fields:
+      - { name: title, label: Distinction / événement, type: string }
+      - { name: description, label: Description, type: text }
+      - { name: order, label: Ordre, type: number }
