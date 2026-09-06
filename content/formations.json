@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Planification intégrée du développement",
+    "meta": "2025 · IDEP / CEA",
+    "details": "Score : 93,33 %",
+    "order": 1
+  },
+  {
+    "title": "Évaluation environnementale des politiques et projets de développement",
+    "meta": "2025 · IFDD / OIF / Université Senghor",
+    "details": "Évaluation environnementale · EIES · cycle de projet",
+    "order": 2
+  },
+  {
+    "title": "ArcGIS Lab – Working with Charts and Reports in ArcGIS Pro",
+    "meta": "2025 · Esri",
+    "details": "ArcGIS Pro · graphiques · rapports cartographiques",
+    "order": 3
+  },
+  {
+    "title": "Cartographie numérique avec ArcGIS Pro",
+    "meta": "2024 · Geoform Burkina",
+    "details": "ArcGIS Pro · cartographie numérique",
+    "order": 4
+  },
+  {
+    "title": "Cartographie numérique avec QGIS",
+    "meta": "2024 · Geoform Burkina",
+    "details": "QGIS · cartographie numérique",
+    "order": 5
+  },
+  {
+    "title": "Suivi et évaluation d’un projet de développement",
+    "meta": "2024 · Campus AFD",
+    "details": "Indicateurs · gestion axée sur les résultats",
+    "order": 6
+  },
+  {
+    "title": "Concevoir un projet de développement respectueux de l’environnement et des populations",
+    "meta": "2023 · Campus AFD",
+    "details": "Conception de projet · participation des populations",
+    "order": 7
+  },
+  {
+    "title": "MEAL dans les situations d’urgence",
+    "meta": "2023 · Save the Children",
+    "details": "Suivi · évaluation · redevabilité · apprentissage",
+    "order": 8
+  },
+  {
+    "title": "Système d’information géographique – prise en main de QGIS",
+    "meta": "2021 · Earth Consulting & Services",
+    "details": "QGIS · SIG · cartographie",
+    "order": 9
+  },
+  {
+    "title": "La jeunesse et la consolidation de la paix",
+    "meta": "2026 · UNITAR",
+    "details": "Jeunesse · paix · prévention des conflits",
+    "order": 10
+  }
+]

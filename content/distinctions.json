@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Vainqueur du concours de culture en Sciences humaines et sociales",
+    "description": "Concours organisé à l’occasion du 10e anniversaire du laboratoire PREDES à l’Université de Kara. Concours du 16 février 2026 ; certificat du 18 février 2026.",
+    "order": 1
+  },
+  {
+    "title": "World Bank Group Youth Summit 2025",
+    "description": "Délégué virtuel au sommet « New Horizons: Youth-Led Innovation for a Livable Planet ».",
+    "order": 2
+  },
+  {
+    "title": "GLF Climate Conference 2025",
+    "description": "Participation virtuelle autour des enjeux du climat, des paysages et du développement durable.",
+    "order": 3
+  },
+  {
+    "title": "GIS Day 2024",
+    "description": "Participation à la communauté géospatiale et veille autour des usages des SIG et de la cartographie.",
+    "order": 4
+  }
+]

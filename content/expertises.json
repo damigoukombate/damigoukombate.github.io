@@ -1,0 +1,38 @@
+[
+  {
+    "title": "SIG & cartographie",
+    "icon": "01",
+    "description": "QGIS, ArcGIS Pro, SIG, cartographie numérique, rapports cartographiques, géolocalisation et veille géospatiale.",
+    "order": 1
+  },
+  {
+    "title": "Données & statistiques",
+    "icon": "02",
+    "description": "Collecte, traitement et analyse de données, analyse démographique, production statistique, bases de données et conception de formulaires.",
+    "order": 2
+  },
+  {
+    "title": "Recherche & géographie",
+    "icon": "03",
+    "description": "Géographie humaine, migrations forcées, sciences humaines et sociales, recherche avancée et analyse thématique.",
+    "order": 3
+  },
+  {
+    "title": "Gestion de projet & MEAL",
+    "icon": "04",
+    "description": "Planification, gestion de projet, suivi-évaluation, cadre de suivi-évaluation, indicateurs, redevabilité et gestion axée sur les résultats.",
+    "order": 4
+  },
+  {
+    "title": "Climat & développement durable",
+    "icon": "05",
+    "description": "ODD, climat, résilience, financement climatique, négociations climatiques, évaluation environnementale et politiques publiques.",
+    "order": 5
+  },
+  {
+    "title": "Communication & engagement",
+    "icon": "06",
+    "description": "Communication communautaire, mobilisation digitale, médiation numérique, sensibilisation, leadership jeunesse et mobilisation citoyenne.",
+    "order": 6
+  }
+]

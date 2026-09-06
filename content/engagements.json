@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Ambassadeur des ODD · AIIDEV Africa",
+    "date": "2025",
+    "description": "Formation intensive sur les Objectifs de développement durable et reconnaissance comme Ambassadeur des ODD.",
+    "order": 1
+  },
+  {
+    "title": "Ambassadeur du Numérique Want Skills",
+    "date": "2026",
+    "description": "Médiation numérique, accompagnement des apprenants, communication et promotion des compétences digitales.",
+    "order": 2
+  },
+  {
+    "title": "Campagne « Un Clic pour la Paix »",
+    "date": "2025",
+    "description": "Association Peace Initiatives · Sensibilisation digitale à la paix, à la cohésion sociale et à la responsabilité numérique.",
+    "order": 3
+  },
+  {
+    "title": "Ambassadeur IYCM",
+    "date": "2025–2026",
+    "description": "Leadership jeunesse, climat, réseautage international et engagement communautaire.",
+    "order": 4
+  },
+  {
+    "title": "16 jours d’activisme contre les VBG",
+    "date": "2026",
+    "description": "Volontariat en ligne avec Génération Inclusive Bénin : sensibilisation et mobilisation digitale.",
+    "order": 5
+  },
+  {
+    "title": "Campagne digitale citoyenne · CACIT / FIACAT",
+    "date": "2026",
+    "description": "Participation à une campagne pour l’adoption du nouveau Code de procédure pénale ; 5e prix et attestation de mérite.",
+    "order": 6
+  }
+]
