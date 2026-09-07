@@ -1,0 +1,542 @@
+[
+  {
+    "title": "La jeunesse et la consolidation de la paix – PTP.2026.25",
+    "organization": "UNITAR",
+    "date": "08/05/2026",
+    "year": "2026",
+    "category": "Paix et sécurité",
+    "details": "Jeunesse; consolidation de la paix; prévention des conflits",
+    "order": 1
+  },
+  {
+    "title": "Corps des jeunes pour la lutte contre le paludisme et les maladies tropicales négligées",
+    "organization": "ALMA – Alliance des dirigeants africains contre le paludisme",
+    "date": "Mars 2026",
+    "year": "2026",
+    "category": "Santé publique",
+    "details": "Santé communautaire; paludisme; maladies tropicales",
+    "order": 2
+  },
+  {
+    "title": "Évaluation environnementale des politiques et projets de développement",
+    "organization": "IFDD / OIF / Université Senghor",
+    "date": "01/12/2025",
+    "year": "2025",
+    "category": "Développement durable",
+    "details": "Évaluation environnementale; EIES; cycle de projet",
+    "order": 3
+  },
+  {
+    "title": "Planification intégrée du développement",
+    "organization": "IDEP / CEA",
+    "date": "07/11/2025",
+    "year": "2025",
+    "category": "Planification",
+    "details": "Score / mention : 93,33 % · Planification du développement; politiques publiques",
+    "order": 4
+  },
+  {
+    "title": "Science ouverte pour le développement",
+    "organization": "Université Virtuelle du Burkina Faso / OPENBURKINA",
+    "date": "11/08/2025",
+    "year": "2025",
+    "category": "Science ouverte",
+    "details": "35 heures · Science ouverte; accès aux connaissances; recherche",
+    "order": 5
+  },
+  {
+    "title": "Programme francophone FXB Climate Advocates – été 2025",
+    "organization": "FXB Global / FXB USA",
+    "date": "Août 2025",
+    "year": "2025",
+    "category": "Climat et plaidoyer",
+    "details": "Plaidoyer climatique; leadership; sensibilisation",
+    "order": 6
+  },
+  {
+    "title": "Employabilité et entrepreneuriat des jeunes : rôle de l’économie numérique",
+    "organization": "IDEP / CEA",
+    "date": "15/04/2025",
+    "year": "2025",
+    "category": "Employabilité et numérique",
+    "details": "Score / mention : 95,71 % · Employabilité; entrepreneuriat; économie numérique",
+    "order": 7
+  },
+  {
+    "title": "TRYBER Starting Course",
+    "organization": "Tryber",
+    "date": "21/04/2025",
+    "year": "2025",
+    "category": "Test logiciel",
+    "details": "Tests numériques; qualité logicielle",
+    "order": 8
+  },
+  {
+    "title": "Découvrez le plugin de vérification",
+    "organization": "AFP / Google News Initiative",
+    "date": "12/04/2025",
+    "year": "2025",
+    "category": "Investigation numérique",
+    "details": "Vérification numérique; fact-checking",
+    "order": 9
+  },
+  {
+    "title": "Standards minimums pour la protection de l’enfance dans l’action humanitaire",
+    "organization": "Humanitarian Leadership Academy / Alliance for Child Protection in Humanitarian Action",
+    "date": "08/04/2025",
+    "year": "2025",
+    "category": "Protection de l’enfance",
+    "details": "Protection de l’enfance; action humanitaire",
+    "order": 10
+  },
+  {
+    "title": "ArcGIS Lab – Working with Charts and Reports in ArcGIS Pro",
+    "organization": "Esri",
+    "date": "05/04/2025",
+    "year": "2025",
+    "category": "SIG / ArcGIS",
+    "details": "4 heures · ArcGIS Pro; graphiques; rapports cartographiques",
+    "order": 11
+  },
+  {
+    "title": "Protection sociale et économie des soins en Afrique",
+    "organization": "IDEP / CEA",
+    "date": "20/02/2025",
+    "year": "2025",
+    "category": "Protection sociale",
+    "details": "Score / mention : 88,75 % · Protection sociale; économie des soins; politiques publiques",
+    "order": 12
+  },
+  {
+    "title": "Mécanisme d’investissement de projets résilients aux changements climatiques",
+    "organization": "IDEP / CEA",
+    "date": "15/01/2025",
+    "year": "2025",
+    "category": "Climat et financement",
+    "details": "Score / mention : 86,15 % · Financement climatique; résilience; investissement",
+    "order": 13
+  },
+  {
+    "title": "Gestion de politique économique sensible au genre",
+    "organization": "IDEP / CEA",
+    "date": "30/11/2024 ou 31/12/2024 selon la copie",
+    "year": "2024",
+    "category": "Genre et politique économique",
+    "details": "Score / mention : 79,50 % · Genre; politique économique; planification",
+    "order": 14
+  },
+  {
+    "title": "Suivi et évaluation d’un projet de développement",
+    "organization": "Campus AFD",
+    "date": "02/10/2024",
+    "year": "2024",
+    "category": "Suivi-évaluation",
+    "details": "Suivi-évaluation; indicateurs; gestion axée sur les résultats",
+    "order": 15
+  },
+  {
+    "title": "Négociations sur le changement climatique pour la jeunesse africaine",
+    "organization": "IDEP / CEA",
+    "date": "06/10/2024",
+    "year": "2024",
+    "category": "Climat et négociation",
+    "details": "Score / mention : 90,00 % · Négociations climatiques; jeunesse; diplomatie climatique",
+    "order": 16
+  },
+  {
+    "title": "Base de données MySQL avec Grafikart.fr",
+    "organization": "Cursa",
+    "date": "11/07/2024 au 12/07/2024",
+    "year": "2024",
+    "category": "Base de données",
+    "details": "2 h 12 min · MySQL; bases de données",
+    "order": 17
+  },
+  {
+    "title": "Techniques d’investigation numérique – niveau débutant",
+    "organization": "AFP / Google News Initiative",
+    "date": "27/06/2024",
+    "year": "2024",
+    "category": "Investigation numérique",
+    "details": "6 heures · Recherche avancée; géolocalisation; archivage; recherche d’images inversée",
+    "order": 18
+  },
+  {
+    "title": "Techniques d’investigation numérique – niveau intermédiaire",
+    "organization": "AFP / Google News Initiative",
+    "date": "27/06/2024",
+    "year": "2024",
+    "category": "Investigation numérique",
+    "details": "5 h 30 · Réseaux sociaux; climat; sécurité en ligne; vérification électorale",
+    "order": 19
+  },
+  {
+    "title": "Cartographie numérique avec ArcGIS Pro",
+    "organization": "Geoform Burkina",
+    "date": "Session juillet 2024; attestation du 17/07/2024",
+    "year": "2024",
+    "category": "SIG / ArcGIS",
+    "details": "ArcGIS Pro; cartographie numérique",
+    "order": 20
+  },
+  {
+    "title": "Cartographie numérique avec QGIS",
+    "organization": "Geoform Burkina",
+    "date": "Session juillet 2024; attestation du 07/07/2024",
+    "year": "2024",
+    "category": "SIG / QGIS",
+    "details": "QGIS; cartographie numérique",
+    "order": 21
+  },
+  {
+    "title": "Techniques d’investigation numérique – niveau avancé",
+    "organization": "AFP / Google News Initiative",
+    "date": "27/06/2024",
+    "year": "2024",
+    "category": "Investigation numérique",
+    "details": "16 heures · Vérification santé; actualité chaude; géolocalisation avancée",
+    "order": 22
+  },
+  {
+    "title": "Introduction to Artificial Intelligence",
+    "organization": "Le Wagon",
+    "date": "29/01/2024",
+    "year": "2024",
+    "category": "Intelligence artificielle",
+    "details": "Fondamentaux de l’intelligence artificielle",
+    "order": 23
+  },
+  {
+    "title": "Exploitez les logiciels de cartes, géolocalisez des images qui contiennent peu d’éléments",
+    "organization": "AFP / Google News Initiative",
+    "date": "30/06/2023",
+    "year": "2023",
+    "category": "Investigation numérique – module",
+    "details": "Géolocalisation; cartes",
+    "order": 24
+  },
+  {
+    "title": "Santé : identifiez les sources fiables et reconnaissez différents types d’études",
+    "organization": "AFP / Google News Initiative",
+    "date": "30/06/2023",
+    "year": "2023",
+    "category": "Investigation numérique – module",
+    "details": "Vérification santé; évaluation des sources",
+    "order": 25
+  },
+  {
+    "title": "Trouvez des témoins et des images autour d’un événement, confirmez à l’aide de sources fiables",
+    "organization": "AFP / Google News Initiative",
+    "date": "30/06/2023",
+    "year": "2023",
+    "category": "Investigation numérique – module",
+    "details": "Recherche de témoins; vérification",
+    "order": 26
+  },
+  {
+    "title": "Identifiez des indices pour géolocaliser des images, voyagez dans le temps",
+    "organization": "AFP / Google News Initiative",
+    "date": "30/06/2023",
+    "year": "2023",
+    "category": "Investigation numérique – module",
+    "details": "Géolocalisation; chronolocalisation",
+    "order": 27
+  },
+  {
+    "title": "Apprenez à trouver, avec peu d’éléments, ce que vous cherchez sur les réseaux sociaux",
+    "organization": "AFP / Google News Initiative",
+    "date": "27/06/2023",
+    "year": "2023",
+    "category": "Investigation numérique – module",
+    "details": "Recherche sur réseaux sociaux",
+    "order": 28
+  },
+  {
+    "title": "Vérifiez des affirmations sur le climat",
+    "organization": "AFP / Google News Initiative",
+    "date": "22/06/2023",
+    "year": "2023",
+    "category": "Investigation numérique – module",
+    "details": "Fact-checking climat",
+    "order": 29
+  },
+  {
+    "title": "Trouvez d’anciennes versions de publications sur internet et archivez-en d’autres",
+    "organization": "AFP / Google News Initiative",
+    "date": "22/06/2023",
+    "year": "2023",
+    "category": "Investigation numérique – module",
+    "details": "Archivage web",
+    "order": 30
+  },
+  {
+    "title": "Sachez quand et par qui une photo ou une vidéo a été publiée pour la première fois",
+    "organization": "AFP / Google News Initiative",
+    "date": "22/06/2023",
+    "year": "2023",
+    "category": "Investigation numérique – module",
+    "details": "Vérification d’images et vidéos",
+    "order": 31
+  },
+  {
+    "title": "Supprimez des informations utilisables contre vous et sécurisez vos authentifications",
+    "organization": "AFP / Google News Initiative",
+    "date": "19/06/2023",
+    "year": "2023",
+    "category": "Investigation numérique – module",
+    "details": "Sécurité numérique",
+    "order": 32
+  },
+  {
+    "title": "Améliorez vos recherches et veilles sur Twitter, Facebook, Instagram et autres",
+    "organization": "AFP / Google News Initiative",
+    "date": "19/06/2023",
+    "year": "2023",
+    "category": "Investigation numérique – module",
+    "details": "Veille numérique",
+    "order": 33
+  },
+  {
+    "title": "Affinez vos recherches pour n’obtenir que ce dont vous avez besoin",
+    "organization": "AFP / Google News Initiative",
+    "date": "19/06/2023",
+    "year": "2023",
+    "category": "Investigation numérique – module",
+    "details": "Recherche avancée",
+    "order": 34
+  },
+  {
+    "title": "Concevoir un projet de développement respectueux de l’environnement et des populations",
+    "organization": "Campus AFD / Institut des Hautes Études du Développement Durable",
+    "date": "20/05/2023",
+    "year": "2023",
+    "category": "Développement de projet",
+    "details": "Conception de projet; environnement; participation des populations",
+    "order": 35
+  },
+  {
+    "title": "EF SET English Certificate",
+    "organization": "EF SET",
+    "date": "22/04/2023",
+    "year": "2023",
+    "category": "Langue",
+    "details": "Score / mention : 26/100 – A1 CECRL · Anglais – compréhension écrite et orale élémentaire",
+    "order": 36
+  },
+  {
+    "title": "Suivi, évaluation, redevabilité et apprentissage (MEAL) dans les situations d’urgence",
+    "organization": "Save the Children / Cornerstone OnDemand Foundation",
+    "date": "23/02/2023",
+    "year": "2023",
+    "category": "MEAL humanitaire",
+    "details": "2 heures · MEAL; urgence humanitaire; redevabilité",
+    "order": 37
+  },
+  {
+    "title": "Gestion de projet complet avec Rémi Bachelet",
+    "organization": "Cursa",
+    "date": "09/02/2023",
+    "year": "2023",
+    "category": "Gestion de projet",
+    "details": "2 h 53 min · Planification; organisation; gestion de projet",
+    "order": 38
+  },
+  {
+    "title": "Introduction à la psychologie avec Coursitout",
+    "organization": "Cursa",
+    "date": "09/02/2023 au 10/02/2023",
+    "year": "2023",
+    "category": "Psychologie",
+    "details": "1 h 07 min · Notions de psychologie",
+    "order": 39
+  },
+  {
+    "title": "Gestion des ressources humaines avec TOP ETUDES",
+    "organization": "Cursa",
+    "date": "22/01/2023",
+    "year": "2023",
+    "category": "Ressources humaines",
+    "details": "1 h 08 min · Ressources humaines",
+    "order": 40
+  },
+  {
+    "title": "Cybersécurité – parcours classique",
+    "organization": "Cabinet Samake Services – Mali",
+    "date": "01/02/2023 au 01/08/2023",
+    "year": "2023",
+    "category": "Cybersécurité",
+    "details": "6 mois · Linux; notions de cybersécurité; administration système",
+    "order": 41
+  },
+  {
+    "title": "Coaching et coaching d’équipe",
+    "organization": "Cabinet Samake Services – Mali",
+    "date": "25/02/2023 au 25/08/2023",
+    "year": "2023",
+    "category": "Coaching",
+    "details": "6 mois · Coaching; animation d’équipe; réunions",
+    "order": 42
+  },
+  {
+    "title": "Apprentissage de la conduite : consultant, moniteur/trice, éducateur",
+    "organization": "Cabinet Samake Services – Mali",
+    "date": "16/04/2022 au 16/10/2022",
+    "year": "2022",
+    "category": "Formation professionnelle",
+    "details": "6 mois · Conseil; encadrement; pédagogie",
+    "order": 43
+  },
+  {
+    "title": "Création de site web (HTML5, CSS3, PHP et SQL)",
+    "organization": "Cabinet Samake Services – Mali",
+    "date": "26/12/2022 au 28/12/2022",
+    "year": "2022",
+    "category": "Développement web",
+    "details": "3 jours · HTML5; CSS3; PHP; SQL",
+    "order": 44
+  },
+  {
+    "title": "Infographie digitale",
+    "organization": "Cabinet Samake Services – Mali",
+    "date": "14/11/2022 au 18/11/2022",
+    "year": "2022",
+    "category": "Infographie",
+    "details": "5 jours · Communication visuelle; infographie",
+    "order": 45
+  },
+  {
+    "title": "Gestion de projet – parcours classique",
+    "organization": "Cabinet Samake Services – Mali",
+    "date": "26/06/2022 au 26/12/2022",
+    "year": "2022",
+    "category": "Gestion de projet",
+    "details": "6 mois · Conception; planification; budget; gestion des risques; travail en équipe",
+    "order": 46
+  },
+  {
+    "title": "Suivi et évaluation de projet – parcours classique",
+    "organization": "Cabinet Samake Services – Mali",
+    "date": "17/05/2022 au 17/11/2022",
+    "year": "2022",
+    "category": "Suivi-évaluation",
+    "details": "6 mois · Cadre de suivi-évaluation; collecte de données; parties prenantes; plan d’action",
+    "order": 47
+  },
+  {
+    "title": "Gestion des stocks",
+    "organization": "CFAE-Togo",
+    "date": "21/03/2022 au 20/08/2022",
+    "year": "2022",
+    "category": "Gestion des stocks",
+    "details": "5 mois · Gestion des stocks; Sage 100; comptabilité de base; informatique",
+    "order": 48
+  },
+  {
+    "title": "Informatique bureautique",
+    "organization": "CFAE-Togo",
+    "date": "03/01/2022 au 31/03/2022",
+    "year": "2022",
+    "category": "Informatique",
+    "details": "3 mois · Bureautique; informatique",
+    "order": 49
+  },
+  {
+    "title": "Élevage des poules pondeuses et poulets Goliath; prophylaxie bio et couveuses artisanales",
+    "organization": "Génération Forte",
+    "date": "19/08/2022 au 24/08/2022",
+    "year": "2022",
+    "category": "Aviculture",
+    "details": "6 jours · Aviculture; entrepreneuriat agricole",
+    "order": 50
+  },
+  {
+    "title": "Sûreté et sécurité lors des déplacements en voiture",
+    "organization": "Save the Children / CSOD Foundation",
+    "date": "28/12/2022",
+    "year": "2022",
+    "category": "Sûreté humanitaire",
+    "details": "10 min · Sécurité personnelle; environnement à risque",
+    "order": 51
+  },
+  {
+    "title": "Introduction à la sûreté et à la sécurité des personnes",
+    "organization": "Save the Children / CSOD Foundation",
+    "date": "28/12/2022",
+    "year": "2022",
+    "category": "Sûreté humanitaire",
+    "details": "15 min · Sécurité personnelle; environnement à risque",
+    "order": 52
+  },
+  {
+    "title": "Prévention des agressions physiques, des agressions sexuelles et des vols",
+    "organization": "Save the Children / CSOD Foundation",
+    "date": "28/12/2022",
+    "year": "2022",
+    "category": "Sûreté humanitaire",
+    "details": "15 min · Sécurité personnelle; environnement à risque",
+    "order": 53
+  },
+  {
+    "title": "Sensibilisation à la sécurité personnelle",
+    "organization": "Save the Children / CSOD Foundation",
+    "date": "28/12/2022",
+    "year": "2022",
+    "category": "Sûreté humanitaire",
+    "details": "15 min · Sécurité personnelle; environnement à risque",
+    "order": 54
+  },
+  {
+    "title": "Arrestation et détention",
+    "organization": "Save the Children / CSOD Foundation",
+    "date": "28/12/2022",
+    "year": "2022",
+    "category": "Sûreté humanitaire",
+    "details": "10 min · Sécurité personnelle; environnement à risque",
+    "order": 55
+  },
+  {
+    "title": "Comment les criminels choisissent leurs victimes",
+    "organization": "Save the Children / CSOD Foundation",
+    "date": "28/12/2022",
+    "year": "2022",
+    "category": "Sûreté humanitaire",
+    "details": "10 min · Sécurité personnelle; environnement à risque",
+    "order": 56
+  },
+  {
+    "title": "Travailler dans un environnement à haut risque",
+    "organization": "Save the Children / CSOD Foundation",
+    "date": "28/12/2022",
+    "year": "2022",
+    "category": "Sûreté humanitaire",
+    "details": "15 min · Sécurité personnelle; environnement à risque",
+    "order": 57
+  },
+  {
+    "title": "Communications sur le terrain",
+    "organization": "Save the Children / CSOD Foundation",
+    "date": "28/12/2022",
+    "year": "2022",
+    "category": "Sûreté humanitaire",
+    "details": "15 min · Sécurité personnelle; environnement à risque",
+    "order": 58
+  },
+  {
+    "title": "Système d’information géographique – prise en main de QGIS",
+    "organization": "Earth Consulting & Services",
+    "date": "09/08/2021 au 14/08/2021",
+    "year": "2021",
+    "category": "SIG / QGIS",
+    "details": "6 jours · QGIS; SIG; cartographie",
+    "order": 59
+  },
+  {
+    "title": "Vérification des faits et enquête sur la désinformation et la mésinformation",
+    "organization": "Africa Fact-Checking Alliance / Code for Africa / Digital Democracy Initiative",
+    "date": "Juillet 2026; certificat daté du 20/07/2026",
+    "year": "2026",
+    "category": "Fact-checking / désinformation",
+    "details": "Fact-checking; vérification de l’information; désinformation; mésinformation; investigation numérique",
+    "order": 60
+  }
+]
