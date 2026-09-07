@@ -1,62 +1,12 @@
 [
-  {
-    "title": "Planification intégrée du développement",
-    "meta": "2025 · IDEP / CEA",
-    "details": "Score : 93,33 %",
-    "order": 1
-  },
-  {
-    "title": "Évaluation environnementale des politiques et projets de développement",
-    "meta": "2025 · IFDD / OIF / Université Senghor",
-    "details": "Évaluation environnementale · EIES · cycle de projet",
-    "order": 2
-  },
-  {
-    "title": "ArcGIS Lab – Working with Charts and Reports in ArcGIS Pro",
-    "meta": "2025 · Esri",
-    "details": "ArcGIS Pro · graphiques · rapports cartographiques",
-    "order": 3
-  },
-  {
-    "title": "Cartographie numérique avec ArcGIS Pro",
-    "meta": "2024 · Geoform Burkina",
-    "details": "ArcGIS Pro · cartographie numérique",
-    "order": 4
-  },
-  {
-    "title": "Cartographie numérique avec QGIS",
-    "meta": "2024 · Geoform Burkina",
-    "details": "QGIS · cartographie numérique",
-    "order": 5
-  },
-  {
-    "title": "Suivi et évaluation d’un projet de développement",
-    "meta": "2024 · Campus AFD",
-    "details": "Indicateurs · gestion axée sur les résultats",
-    "order": 6
-  },
-  {
-    "title": "Concevoir un projet de développement respectueux de l’environnement et des populations",
-    "meta": "2023 · Campus AFD",
-    "details": "Conception de projet · participation des populations",
-    "order": 7
-  },
-  {
-    "title": "MEAL dans les situations d’urgence",
-    "meta": "2023 · Save the Children",
-    "details": "Suivi · évaluation · redevabilité · apprentissage",
-    "order": 8
-  },
-  {
-    "title": "Système d’information géographique – prise en main de QGIS",
-    "meta": "2021 · Earth Consulting & Services",
-    "details": "QGIS · SIG · cartographie",
-    "order": 9
-  },
-  {
-    "title": "La jeunesse et la consolidation de la paix",
-    "meta": "2026 · UNITAR",
-    "details": "Jeunesse · paix · prévention des conflits",
-    "order": 10
-  }
+  {"title":"Standards minimums pour la protection de l’enfance dans l’action humanitaire","meta":"2025 · Humanitarian Leadership Academy / Alliance for Child Protection in Humanitarian Action","details":"Protection de l’enfance · action humanitaire","order":1},
+  {"title":"La jeunesse et la consolidation de la paix","meta":"2026 · UNITAR","details":"Jeunesse · paix · prévention des conflits","order":2},
+  {"title":"MEAL dans les situations d’urgence","meta":"2023 · Save the Children / Cornerstone OnDemand Foundation","details":"Suivi · évaluation · redevabilité · apprentissage","order":3},
+  {"title":"Suivi et évaluation d’un projet de développement","meta":"2024 · Campus AFD","details":"Indicateurs · gestion axée sur les résultats","order":4},
+  {"title":"Suivi et évaluation de projet – parcours classique","meta":"2022 · Cabinet Samake Services","details":"Suivi-évaluation · gestion de projet","order":5},
+  {"title":"Concevoir un projet de développement respectueux de l’environnement et des populations","meta":"2023 · Campus AFD / IHEDD","details":"Conception de projet · participation des populations","order":6},
+  {"title":"Planification intégrée du développement","meta":"2025 · IDEP / CEA","details":"Planification du développement · Score : 93,33 %","order":7},
+  {"title":"Protection sociale et économie des soins en Afrique","meta":"2025 · IDEP / CEA","details":"Protection sociale · économie des soins","order":8},
+  {"title":"Gestion de politique économique sensible au genre","meta":"2024 · IDEP / CEA","details":"Genre · politiques publiques · développement","order":9},
+  {"title":"Évaluation environnementale des politiques et projets de développement","meta":"2025 · IFDD / OIF / Université Senghor","details":"Évaluation environnementale · EIES · cycle de projet","order":10}
 ]
