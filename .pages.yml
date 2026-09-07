@@ -89,3 +89,15 @@ content:
       - { name: title, label: Distinction / événement, type: string }
       - { name: description, label: Description, type: text }
       - { name: order, label: Ordre, type: number }
+
+  - name: international_events
+    label: Participations & événements internationaux
+    type: file
+    path: content/international_events.json
+    format: json
+    list: true
+    fields:
+      - { name: title, label: Événement, type: string }
+      - { name: date, label: Année, type: string }
+      - { name: description, label: Description, type: text }
+      - { name: order, label: Ordre, type: number }
