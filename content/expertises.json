@@ -1,20 +1,20 @@
 [
   {
-    "title": "SIG & cartographie",
+    "title": "Géographie humaine & migrations",
     "icon": "01",
-    "description": "QGIS, ArcGIS Pro, SIG, cartographie numérique, rapports cartographiques, géolocalisation et veille géospatiale.",
+    "description": "Géographie humaine, mobilités et migrations forcées, dynamiques territoriales et intérêt pour les problématiques liées aux déplacements de populations et aux contextes d’insécurité.",
     "order": 1
   },
   {
-    "title": "Données & statistiques",
+    "title": "Action humanitaire & développement",
     "icon": "02",
-    "description": "Collecte, traitement et analyse de données, analyse démographique, production statistique, bases de données et conception de formulaires.",
+    "description": "Intérêt marqué pour l’action humanitaire, les problématiques affectant les populations vulnérables, les dynamiques communautaires et les interventions de développement.",
     "order": 2
   },
   {
-    "title": "Recherche & géographie",
+    "title": "Collecte & analyse de données",
     "icon": "03",
-    "description": "Géographie humaine, migrations forcées, sciences humaines et sociales, recherche avancée et analyse thématique.",
+    "description": "Collecte, traitement et analyse de données, conception de formulaires, données démographiques, production statistique et organisation de bases de données.",
     "order": 3
   },
   {
