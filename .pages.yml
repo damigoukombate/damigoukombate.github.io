@@ -43,8 +43,20 @@ content:
         list: true
       - { name: order, label: Ordre, type: number }
 
+  - name: academic_education
+    label: Formation académique
+    type: file
+    path: content/academic_education.json
+    format: json
+    list: true
+    fields:
+      - { name: title, label: Diplôme / niveau, type: string }
+      - { name: meta, label: Période et établissement, type: string }
+      - { name: details, label: Orientation / détails, type: text }
+      - { name: order, label: Ordre, type: number }
+
   - name: formations
-    label: Formations
+    label: Formations & certifications sélectionnées
     type: file
     path: content/formations.json
     format: json
