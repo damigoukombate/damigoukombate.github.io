@@ -44,3 +44,21 @@
   document.querySelectorAll('[data-cv-expertises]').forEach(el=>el.innerHTML=exps.map(x=>`<span class="pill">${esc(x.title)}</span>`).join(''));
  }catch(e){console.warn('Expertises CV non chargées',e)}
 })();
+
+// Accueil : expériences dynamiques, compteurs automatiques et page complète des formations.
+(async()=>{
+ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ const get=async kind=>fetch(`content/${kind}.json?ts=${Date.now()}`,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()});
+ const home=document.querySelector('[data-home-experiences]');
+ if(home) try{
+   const data=await get('experiences'); data.sort((a,b)=>(a.order??999)-(b.order??999));
+   home.innerHTML=data.slice(0,3).map(x=>`<article class="project"><div class="project-visual"></div><div class="project-body"><small>${esc(x.organization||'')}${x.date?` · ${esc(x.date)}`:''}</small><h3>${esc(x.title)}</h3><p>${esc(x.description||'')}</p></div></article>`).join('');
+ }catch(e){console.warn('Expériences accueil non chargées',e)}
+ for(const el of document.querySelectorAll('[data-count]')) try{const data=await get(el.dataset.count);el.textContent=Array.isArray(data)?data.length:el.textContent}catch(e){}
+ const all=document.querySelector('[data-all-formations]');
+ if(all) try{
+   const data=await get('all_formations'); data.sort((a,b)=>(Number(b.year)||0)-(Number(a.year)||0)||(a.order??999)-(b.order??999));
+   const groups={}; data.forEach(x=>(groups[x.category||'Autres formations']??=[]).push(x));
+   all.innerHTML=Object.entries(groups).map(([cat,items])=>`<section style="margin-bottom:42px"><div class="eyebrow">${esc(cat)}</div><h2>${esc(cat)}</h2><div class="cert-grid">${items.map(x=>`<div class="cert"><small>${esc([x.year,x.organization].filter(Boolean).join(' · '))}</small><b>${esc(x.title)}</b><span>${esc(x.details||x.date||'')}</span></div>`).join('')}</div></section>`).join('');
+ }catch(e){all.innerHTML='<p>La liste complète des formations est momentanément indisponible.</p>';console.warn('Toutes formations non chargées',e)}
+})();
