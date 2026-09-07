@@ -1,18 +1,18 @@
 {
   "name": "Damigou KOMBATE",
-  "brand_subtitle": "Géographe · Migration forcée· SIG · Développement",
+  "brand_subtitle": "Géographe · Migrations · Action humanitaire · Développement",
   "location": "Dapaong, Région des Savanes, Togo",
   "email": "damkt7@gmail.com",
   "phone1": "(+228) 70 36 03 43",
   "phone2": "(+228) 99 07 70 41",
   "linkedin": "https://www.linkedin.com/in/damkt7/",
   "portrait": "assets/portrait-damigou-kombate.png",
-  "hero_eyebrow": "Comprendre les territoires pour bâtir des solutions durables",
-  "hero_tagline": "Géographe | SIG · Migrations · Développement",
-  "hero_text": "Je mobilise la géographie, l’analyse de données et la cartographie pour mieux comprendre les dynamiques humaines et territoriales, avec un intérêt particulier pour les migrations, le développement et les enjeux de l’Afrique de l’Ouest.",
-  "about_lead": "Géographe basé à Dapaong, Région des Savanes, avec un parcours orienté géographie humaine, données, SIG et développement.",
-  "about_p1": "Je poursuis un Master 2 en Géographie humaine à l’Université de Kara (2025–2026), après une Licence fondamentale en Géographie obtenue à la même université.",
-  "about_p2": "Ma spécialisation porte sur les dynamiques de migration forcée dans un contexte d’insécurité transfrontalière. Je développe parallèlement des compétences en analyse de données, cartographie numérique, recherche, suivi-évaluation et gestion de projet.",
-  "about_p3": "Depuis mars 2023, j’exerce également une activité indépendante sous le nom EvalMap Consulting, centrée sur les services de données, la conception de formulaires, l’analyse et la cartographie QGIS.",
-  "contact_intro": "Pour une collaboration en données, SIG, cartographie, recherche, développement ou suivi-évaluation."
+  "hero_eyebrow": "Comprendre les territoires et les mobilités humaines pour contribuer à des réponses adaptées aux populations",
+  "hero_tagline": "Géographe | Géographie humaine · Migrations · Action humanitaire",
+  "hero_text": "Géographe de formation, je m’intéresse aux dynamiques humaines et territoriales, avec un intérêt particulier pour les migrations forcées, les mobilités et les enjeux humanitaires dans les contextes d’insécurité. Mon parcours en géographie humaine et mes compétences en collecte et analyse de données nourrissent mon ambition de contribuer à des projets humanitaires et de développement en Afrique de l’Ouest.",
+  "about_lead": "Géographe basé à Dapaong, dans la Région des Savanes au Togo, je construis mon parcours autour de la géographie humaine, des migrations et de l’analyse des dynamiques territoriales. Je porte un intérêt particulier aux problématiques humanitaires et de développement affectant les populations et les territoires.",
+  "about_p1": "Je poursuis un Master 2 en Géographie humaine à l’Université de Kara (2025–2026), après une Licence fondamentale en Géographie obtenue dans la même université. Ce parcours m’a progressivement conduit à m’intéresser aux mobilités humaines, aux migrations et aux transformations des territoires.",
+  "about_p2": "Dans le cadre de mon Master, je m’intéresse particulièrement aux migrations forcées et aux dynamiques territoriales dans les contextes d’insécurité transfrontalière. Cet intérêt nourrit mon souhait de contribuer à l’action humanitaire, notamment à travers la compréhension des populations, des mobilités et des territoires. Je développe parallèlement des compétences en collecte et analyse de données, recherche, suivi-évaluation et gestion de projet.",
+  "about_p3": "Depuis mars 2023, j’exerce également une activité indépendante sous le nom EvalMap Consulting, autour de services numériques : informatique bureautique, conception de formulaires, collecte, traitement et analyse de données, avec des interventions ponctuelles en cartographie et SIG.",
+  "contact_intro": "Je suis ouvert aux opportunités, collaborations et missions dans les domaines de l’action humanitaire, des migrations, de la géographie humaine, des études territoriales, de la collecte et l’analyse de données, du suivi-évaluation et du développement."
 }
