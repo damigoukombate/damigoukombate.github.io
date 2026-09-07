@@ -15,9 +15,32 @@
   experiences:x=>`<div class="timeline-item"><div class="date">${esc(x.date)}</div><div><h3>${esc(x.title)}</h3><p><strong>${esc(x.organization)}</strong></p><p>${esc(x.description)}</p>${x.skills?.length?`<div class="pill-row">${x.skills.map(s=>`<span class="pill">${esc(s)}</span>`).join('')}</div>`:''}</div></div>`,
   engagements:x=>`<div class="timeline-item"><div class="date">${esc(x.date)}</div><div><h3>${esc(x.title)}</h3><p>${esc(x.description)}</p></div></div>`,
   formations:x=>`<div class="cert"><small>${esc(x.meta)}</small><b>${esc(x.title)}</b><span>${esc(x.details)}</span></div>`,
+  academic_education:x=>`<div class="cert"><small>${esc(x.meta)}</small><b>${esc(x.title)}</b><span>${esc(x.details)}</span></div>`,
   expertises:x=>`<article class="card"><div class="icon">${esc(x.icon)}</div><h3>${esc(x.title)}</h3><p>${esc(x.description)}</p></article>`,
   distinctions:x=>`<div class="cert"><small>${esc(x.meta||x.date||'')}</small><b>${esc(x.title)}</b><span>${esc(x.details||x.description||'')}</span></div>`,
   international_events:x=>`<article class="card"><small>${esc(x.date||'')}</small><h3>${esc(x.title)}</h3><p>${esc(x.description||'')}</p></article>`
  };
  for(const el of document.querySelectorAll('[data-cms-list]')){const kind=el.dataset.cmsList;try{const data=await fetch(`content/${kind}.json?ts=${Date.now()}`,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()});data.sort((a,b)=>(a.order??999)-(b.order??999));if(render[kind])el.innerHTML=data.map(render[kind]).join('');}catch(e){console.warn(`CMS ${kind} non chargé`,e)}}
+
+ // Blocs spéciaux du CV : ils réutilisent les mêmes fichiers JSON que les autres pages.
+ const cvRender={
+  experiences:x=>`<li><strong>${esc(x.title)}</strong>${x.organization?` — ${esc(x.organization)}`:''}${x.date?`, ${esc(x.date)}`:''}. ${esc(x.description||'')}</li>`,
+  formations:x=>`<li><strong>${esc(x.title)}</strong>${x.meta?` — ${esc(x.meta)}`:''}${x.details?`. ${esc(x.details)}`:''}</li>`,
+  academic_education:x=>`<li><strong>${esc(x.title)}</strong>${x.meta?` — ${esc(x.meta)}`:''}${x.details?`. ${esc(x.details)}`:''}</li>`,
+  distinctions:x=>`<li><strong>${esc(x.title)}</strong>${(x.details||x.description)?` — ${esc(x.details||x.description)}`:''}</li>`,
+  engagements:x=>`<li><strong>${esc(x.title)}</strong>${x.date?` (${esc(x.date)})`:''}${x.description?` — ${esc(x.description)}`:''}</li>`
+ };
+ for(const el of document.querySelectorAll('[data-cv-list]')){
+  const kind=el.dataset.cvList;
+  try{
+   const data=await fetch(`content/${kind}.json?ts=${Date.now()}`,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()});
+   data.sort((a,b)=>(a.order??999)-(b.order??999));
+   if(cvRender[kind]) el.innerHTML=data.map(cvRender[kind]).join('');
+  }catch(e){console.warn(`CV ${kind} non chargé`,e)}
+ }
+ try{
+  const exps=await fetch(`content/expertises.json?ts=${Date.now()}`,{cache:'no-store'}).then(r=>r.json());
+  exps.sort((a,b)=>(a.order??999)-(b.order??999));
+  document.querySelectorAll('[data-cv-expertises]').forEach(el=>el.innerHTML=exps.map(x=>`<span class="pill">${esc(x.title)}</span>`).join(''));
+ }catch(e){console.warn('Expertises CV non chargées',e)}
 })();
