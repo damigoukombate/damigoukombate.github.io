@@ -113,3 +113,18 @@ content:
       - { name: date, label: Année, type: string }
       - { name: description, label: Description, type: text }
       - { name: order, label: Ordre, type: number }
+
+  - name: all_formations
+    label: Toutes les formations (base complète)
+    type: file
+    path: content/all_formations.json
+    format: json
+    list: true
+    fields:
+      - { name: title, label: Formation / certification, type: string }
+      - { name: organization, label: Organisme, type: string }
+      - { name: date, label: Date / période, type: string }
+      - { name: year, label: Année, type: string }
+      - { name: category, label: Catégorie, type: string }
+      - { name: details, label: Détails / compétences, type: text }
+      - { name: order, label: Ordre, type: number }
