@@ -18,15 +18,15 @@
     "order": 3
   },
   {
-    "title": "Gestion de projet & MEAL",
+    "title": "Suivi-évaluation & gestion de projet",
     "icon": "04",
-    "description": "Planification, gestion de projet, suivi-évaluation, cadre de suivi-évaluation, indicateurs, redevabilité et gestion axée sur les résultats.",
+    "description": "Notions et compétences développées en suivi-évaluation, planification, indicateurs, gestion axée sur les résultats et gestion de projet.",
     "order": 4
   },
   {
-    "title": "Climat & développement durable",
+    "title": "Cartographie & outils géographiques",
     "icon": "05",
-    "description": "ODD, climat, résilience, financement climatique, négociations climatiques, évaluation environnementale et politiques publiques.",
+    "description": "Compétences complémentaires en cartographie numérique et utilisation de QGIS pour la représentation et l’analyse spatiale de données.",
     "order": 5
   },
   {
