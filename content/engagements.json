@@ -24,15 +24,9 @@
     "order": 4
   },
   {
-    "title": "Campagne digitale citoyenne – CACIT / FIACAT",
-    "date": "2026",
-    "description": "Participation à une campagne digitale citoyenne de sensibilisation autour de l’adoption du nouveau Code de procédure pénale. Lauréat du 5e prix, avec attestation de mérite.",
-    "order": 5
-  },
-  {
     "title": "Ambassadeur du numérique – Want Skills",
     "date": "2026",
     "description": "Engagement dans la médiation numérique, l’accompagnement des apprenants, la communication et la promotion des compétences numériques.",
-    "order": 6
+    "order": 5
   }
 ]
